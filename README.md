@@ -1,7 +1,7 @@
 ### Hello there 👋
 <img src="https://github.com/AydinQuliyev/AydinQuliyev/blob/main/helloworld.gif" />
-<br/>
-# 💫 About Me:
+
+#💫 About Me: <br/>
 🔭 I’m currently working on some projects for portfolio<br>🤝 I’m looking for professional teamworking and development experience<br>🌱 I’m currently learning backend development<br>⚡ honestly , I'm not a hard worker, but I compensate with my smart approach.
 
 
